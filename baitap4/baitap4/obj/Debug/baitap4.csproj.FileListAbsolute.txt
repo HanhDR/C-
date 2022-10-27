@@ -1,0 +1,11 @@
+C:\Users\hanht\source\repos\baitap4\baitap4\bin\Debug\baitap4.exe.config
+C:\Users\hanht\source\repos\baitap4\baitap4\bin\Debug\baitap4.exe
+C:\Users\hanht\source\repos\baitap4\baitap4\bin\Debug\baitap4.pdb
+C:\Users\hanht\source\repos\baitap4\baitap4\obj\Debug\baitap4.csproj.AssemblyReference.cache
+C:\Users\hanht\source\repos\baitap4\baitap4\obj\Debug\baitap4.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanht\source\repos\baitap4\baitap4\obj\Debug\baitap4.Form1.resources
+C:\Users\hanht\source\repos\baitap4\baitap4\obj\Debug\baitap4.Properties.Resources.resources
+C:\Users\hanht\source\repos\baitap4\baitap4\obj\Debug\baitap4.csproj.GenerateResource.cache
+C:\Users\hanht\source\repos\baitap4\baitap4\obj\Debug\baitap4.csproj.CoreCompileInputs.cache
+C:\Users\hanht\source\repos\baitap4\baitap4\obj\Debug\baitap4.exe
+C:\Users\hanht\source\repos\baitap4\baitap4\obj\Debug\baitap4.pdb

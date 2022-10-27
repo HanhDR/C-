@@ -1,0 +1,12 @@
+C:\Users\hanht\source\repos\Baitap6\Baitap6\bin\Debug\Baitap6.exe.config
+C:\Users\hanht\source\repos\Baitap6\Baitap6\bin\Debug\Baitap6.exe
+C:\Users\hanht\source\repos\Baitap6\Baitap6\bin\Debug\Baitap6.pdb
+C:\Users\hanht\source\repos\Baitap6\Baitap6\obj\Debug\Baitap6.csproj.AssemblyReference.cache
+C:\Users\hanht\source\repos\Baitap6\Baitap6\obj\Debug\Baitap6.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanht\source\repos\Baitap6\Baitap6\obj\Debug\Baitap6.FormC.resources
+C:\Users\hanht\source\repos\Baitap6\Baitap6\obj\Debug\Baitap6.Properties.Resources.resources
+C:\Users\hanht\source\repos\Baitap6\Baitap6\obj\Debug\Baitap6.csproj.GenerateResource.cache
+C:\Users\hanht\source\repos\Baitap6\Baitap6\obj\Debug\Baitap6.csproj.CoreCompileInputs.cache
+C:\Users\hanht\source\repos\Baitap6\Baitap6\obj\Debug\Baitap6.exe
+C:\Users\hanht\source\repos\Baitap6\Baitap6\obj\Debug\Baitap6.pdb
+C:\Users\hanht\source\repos\Baitap6\Baitap6\obj\Debug\Baitap6.Formcon1.resources

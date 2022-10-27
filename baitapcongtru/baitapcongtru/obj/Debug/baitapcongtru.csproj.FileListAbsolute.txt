@@ -1,0 +1,11 @@
+C:\Users\hanht\source\repos\baitapcongtru\baitapcongtru\obj\Debug\baitapcongtru.csproj.AssemblyReference.cache
+C:\Users\hanht\source\repos\baitapcongtru\baitapcongtru\obj\Debug\baitapcongtru.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanht\source\repos\baitapcongtru\baitapcongtru\obj\Debug\baitapcongtru.Form1.resources
+C:\Users\hanht\source\repos\baitapcongtru\baitapcongtru\obj\Debug\baitapcongtru.Properties.Resources.resources
+C:\Users\hanht\source\repos\baitapcongtru\baitapcongtru\obj\Debug\baitapcongtru.csproj.GenerateResource.cache
+C:\Users\hanht\source\repos\baitapcongtru\baitapcongtru\obj\Debug\baitapcongtru.csproj.CoreCompileInputs.cache
+C:\Users\hanht\source\repos\baitapcongtru\baitapcongtru\bin\Debug\baitapcongtru.exe.config
+C:\Users\hanht\source\repos\baitapcongtru\baitapcongtru\bin\Debug\baitapcongtru.exe
+C:\Users\hanht\source\repos\baitapcongtru\baitapcongtru\bin\Debug\baitapcongtru.pdb
+C:\Users\hanht\source\repos\baitapcongtru\baitapcongtru\obj\Debug\baitapcongtru.exe
+C:\Users\hanht\source\repos\baitapcongtru\baitapcongtru\obj\Debug\baitapcongtru.pdb

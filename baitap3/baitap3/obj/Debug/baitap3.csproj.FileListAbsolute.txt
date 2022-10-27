@@ -1,0 +1,12 @@
+C:\Users\hanht\source\repos\baitap3\baitap3\bin\Debug\baitap3.exe.config
+C:\Users\hanht\source\repos\baitap3\baitap3\bin\Debug\baitap3.exe
+C:\Users\hanht\source\repos\baitap3\baitap3\bin\Debug\baitap3.pdb
+C:\Users\hanht\source\repos\baitap3\baitap3\obj\Debug\baitap3.csproj.AssemblyReference.cache
+C:\Users\hanht\source\repos\baitap3\baitap3\obj\Debug\baitap3.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanht\source\repos\baitap3\baitap3\obj\Debug\baitap3.Properties.Resources.resources
+C:\Users\hanht\source\repos\baitap3\baitap3\obj\Debug\baitap3.csproj.GenerateResource.cache
+C:\Users\hanht\source\repos\baitap3\baitap3\obj\Debug\baitap3.csproj.CoreCompileInputs.cache
+C:\Users\hanht\source\repos\baitap3\baitap3\obj\Debug\baitap3.exe
+C:\Users\hanht\source\repos\baitap3\baitap3\obj\Debug\baitap3.pdb
+C:\Users\hanht\source\repos\baitap3\baitap3\obj\Debug\baitap3.frmMain.resources
+C:\Users\hanht\source\repos\baitap3\baitap3\obj\Debug\baitap3.Form1.resources
